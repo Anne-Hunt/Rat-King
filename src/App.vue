@@ -9,11 +9,8 @@ const appState = computed(() => AppState)
 <template>
   <main>
 <RatKing/>
+</main>
 <Scoreboard/>
-  </main>
-   <footer class="bg-dark text-light">
-    Made with 💖 by CodeWorks
-  </footer>
 </template>
 
 <style lang="scss">
